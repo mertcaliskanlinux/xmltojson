@@ -1,0 +1,34 @@
+ <?xml version="1.0"?>
+  <company>
+          <staff>
+                  <id>101</id>
+                  <firstname>Mert</firstname>
+                  <lastname>Çalışkan</lastname>
+                  <username>AnonimKony</username>
+          </staff>
+          <staff>
+                  <id>102</id>
+                  <firstname>Timu</firstname>
+                  <lastname>Eren</lastname>
+                  <username>selam</username>
+          </staff>
+          <staff>
+                  <id>103</id>
+                  <firstname>Arnold</firstname>
+                  <lastname>Schwarzenegger</lastname>
+                  <username>YOKEDİCİ</username>
+          </staff>
+          <staff>
+                  <id>105</id>
+                  <firstname>Ronnie</firstname>
+                  <lastname>Coleman</lastname>
+                  <username>HARDBODYBULDİNG</username>
+          </staff>
+          <staff>
+                  <id>105</id>
+                  <firstname>Frank</firstname>
+                  <lastname>Zane</lastname>
+                  <username>YÜRÜYENHERKÜL</username>
+          </staff>
+
+  </company>
